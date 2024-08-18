@@ -8,10 +8,10 @@
 
 #### Building from Scratch & Design Patterns:
 
-- [Business Rules](/spec/BusinessRules.md) (21T2 Final Exam)
-- [Shipping Discounts](/spec/ShippingDiscounts.md) (20T2 Final Exam)
-- [Database](/spec/Database.md) (21T3 Final Exam)
-- [A Visiting Calculator](/spec/VisitingCalculator.md) (22T3 Lab 07 Exercise)
+- [Business Rules](/spec/BusinessRules.md) (21T2 Final Exam)    completed 
+- [Shipping Discounts](/spec/ShippingDiscounts.md) (20T2 Final Exam)    completed 
+- [Database](/spec/Database.md) (21T3 Final Exam)    completed 
+- [A Visiting Calculator](/spec/VisitingCalculator.md) (22T3 Lab 07 Exercise)    completed 
 
 #### Refactoring an Existing System & Design Patterns:
 
