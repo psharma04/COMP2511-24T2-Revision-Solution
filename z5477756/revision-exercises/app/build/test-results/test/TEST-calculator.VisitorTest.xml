@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calculator.VisitorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-08-18T11:35:32" hostname="DESKTOP-BTN9JQN" time="0.031">
+  <properties/>
+  <testcase name="testSimpleExpressionInfix()" classname="calculator.VisitorTest" time="0.019"/>
+  <testcase name="testSimpleExpression2Postfix()" classname="calculator.VisitorTest" time="0.003"/>
+  <testcase name="testSimpleExpressionPostfix()" classname="calculator.VisitorTest" time="0.001"/>
+  <testcase name="testSimpleExpression2Evaluator()" classname="calculator.VisitorTest" time="0.002"/>
+  <testcase name="testSimpleExpressionEvaluator()" classname="calculator.VisitorTest" time="0.001"/>
+  <testcase name="testSimpleExpression2Infix()" classname="calculator.VisitorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
